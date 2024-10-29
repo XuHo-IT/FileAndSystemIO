@@ -1,0 +1,14 @@
+E:\PRN212\ReadFile\DirectoryInfo\bin\Debug\net8.0\DirectoryInfo.exe
+E:\PRN212\ReadFile\DirectoryInfo\bin\Debug\net8.0\DirectoryInfo.deps.json
+E:\PRN212\ReadFile\DirectoryInfo\bin\Debug\net8.0\DirectoryInfo.runtimeconfig.json
+E:\PRN212\ReadFile\DirectoryInfo\bin\Debug\net8.0\DirectoryInfo.dll
+E:\PRN212\ReadFile\DirectoryInfo\bin\Debug\net8.0\DirectoryInfo.pdb
+E:\PRN212\ReadFile\DirectoryInfo\obj\Debug\net8.0\DirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN212\ReadFile\DirectoryInfo\obj\Debug\net8.0\DirectoryInfo.AssemblyInfoInputs.cache
+E:\PRN212\ReadFile\DirectoryInfo\obj\Debug\net8.0\DirectoryInfo.AssemblyInfo.cs
+E:\PRN212\ReadFile\DirectoryInfo\obj\Debug\net8.0\DirectoryInfo.csproj.CoreCompileInputs.cache
+E:\PRN212\ReadFile\DirectoryInfo\obj\Debug\net8.0\DirectoryInfo.dll
+E:\PRN212\ReadFile\DirectoryInfo\obj\Debug\net8.0\refint\DirectoryInfo.dll
+E:\PRN212\ReadFile\DirectoryInfo\obj\Debug\net8.0\DirectoryInfo.pdb
+E:\PRN212\ReadFile\DirectoryInfo\obj\Debug\net8.0\DirectoryInfo.genruntimeconfig.cache
+E:\PRN212\ReadFile\DirectoryInfo\obj\Debug\net8.0\ref\DirectoryInfo.dll

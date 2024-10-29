@@ -1,0 +1,14 @@
+E:\PRN212\ReadFile\BinaryWriteAndBinaryReader\bin\Debug\net8.0\BinaryWriteAndBinaryReader.exe
+E:\PRN212\ReadFile\BinaryWriteAndBinaryReader\bin\Debug\net8.0\BinaryWriteAndBinaryReader.deps.json
+E:\PRN212\ReadFile\BinaryWriteAndBinaryReader\bin\Debug\net8.0\BinaryWriteAndBinaryReader.runtimeconfig.json
+E:\PRN212\ReadFile\BinaryWriteAndBinaryReader\bin\Debug\net8.0\BinaryWriteAndBinaryReader.dll
+E:\PRN212\ReadFile\BinaryWriteAndBinaryReader\bin\Debug\net8.0\BinaryWriteAndBinaryReader.pdb
+E:\PRN212\ReadFile\BinaryWriteAndBinaryReader\obj\Debug\net8.0\BinaryWriteAndBinaryReader.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN212\ReadFile\BinaryWriteAndBinaryReader\obj\Debug\net8.0\BinaryWriteAndBinaryReader.AssemblyInfoInputs.cache
+E:\PRN212\ReadFile\BinaryWriteAndBinaryReader\obj\Debug\net8.0\BinaryWriteAndBinaryReader.AssemblyInfo.cs
+E:\PRN212\ReadFile\BinaryWriteAndBinaryReader\obj\Debug\net8.0\BinaryWriteAndBinaryReader.csproj.CoreCompileInputs.cache
+E:\PRN212\ReadFile\BinaryWriteAndBinaryReader\obj\Debug\net8.0\BinaryWriteAndBinaryReader.dll
+E:\PRN212\ReadFile\BinaryWriteAndBinaryReader\obj\Debug\net8.0\refint\BinaryWriteAndBinaryReader.dll
+E:\PRN212\ReadFile\BinaryWriteAndBinaryReader\obj\Debug\net8.0\BinaryWriteAndBinaryReader.pdb
+E:\PRN212\ReadFile\BinaryWriteAndBinaryReader\obj\Debug\net8.0\BinaryWriteAndBinaryReader.genruntimeconfig.cache
+E:\PRN212\ReadFile\BinaryWriteAndBinaryReader\obj\Debug\net8.0\ref\BinaryWriteAndBinaryReader.dll

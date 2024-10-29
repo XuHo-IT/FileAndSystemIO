@@ -1,0 +1,14 @@
+E:\PRN212\ReadFile\Directory Demonstration\bin\Debug\net8.0\Directory Demonstration.exe
+E:\PRN212\ReadFile\Directory Demonstration\bin\Debug\net8.0\Directory Demonstration.deps.json
+E:\PRN212\ReadFile\Directory Demonstration\bin\Debug\net8.0\Directory Demonstration.runtimeconfig.json
+E:\PRN212\ReadFile\Directory Demonstration\bin\Debug\net8.0\Directory Demonstration.dll
+E:\PRN212\ReadFile\Directory Demonstration\bin\Debug\net8.0\Directory Demonstration.pdb
+E:\PRN212\ReadFile\Directory Demonstration\obj\Debug\net8.0\Directory Demonstration.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN212\ReadFile\Directory Demonstration\obj\Debug\net8.0\Directory Demonstration.AssemblyInfoInputs.cache
+E:\PRN212\ReadFile\Directory Demonstration\obj\Debug\net8.0\Directory Demonstration.AssemblyInfo.cs
+E:\PRN212\ReadFile\Directory Demonstration\obj\Debug\net8.0\Directory Demonstration.csproj.CoreCompileInputs.cache
+E:\PRN212\ReadFile\Directory Demonstration\obj\Debug\net8.0\Directory Demonstration.dll
+E:\PRN212\ReadFile\Directory Demonstration\obj\Debug\net8.0\refint\Directory Demonstration.dll
+E:\PRN212\ReadFile\Directory Demonstration\obj\Debug\net8.0\Directory Demonstration.pdb
+E:\PRN212\ReadFile\Directory Demonstration\obj\Debug\net8.0\Directory Demonstration.genruntimeconfig.cache
+E:\PRN212\ReadFile\Directory Demonstration\obj\Debug\net8.0\ref\Directory Demonstration.dll

@@ -1,0 +1,14 @@
+E:\PRN212\ReadFile\DemoFileClass\bin\Debug\net8.0\DemoFileClass.exe
+E:\PRN212\ReadFile\DemoFileClass\bin\Debug\net8.0\DemoFileClass.deps.json
+E:\PRN212\ReadFile\DemoFileClass\bin\Debug\net8.0\DemoFileClass.runtimeconfig.json
+E:\PRN212\ReadFile\DemoFileClass\bin\Debug\net8.0\DemoFileClass.dll
+E:\PRN212\ReadFile\DemoFileClass\bin\Debug\net8.0\DemoFileClass.pdb
+E:\PRN212\ReadFile\DemoFileClass\obj\Debug\net8.0\DemoFileClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN212\ReadFile\DemoFileClass\obj\Debug\net8.0\DemoFileClass.AssemblyInfoInputs.cache
+E:\PRN212\ReadFile\DemoFileClass\obj\Debug\net8.0\DemoFileClass.AssemblyInfo.cs
+E:\PRN212\ReadFile\DemoFileClass\obj\Debug\net8.0\DemoFileClass.csproj.CoreCompileInputs.cache
+E:\PRN212\ReadFile\DemoFileClass\obj\Debug\net8.0\DemoFileClass.dll
+E:\PRN212\ReadFile\DemoFileClass\obj\Debug\net8.0\refint\DemoFileClass.dll
+E:\PRN212\ReadFile\DemoFileClass\obj\Debug\net8.0\DemoFileClass.pdb
+E:\PRN212\ReadFile\DemoFileClass\obj\Debug\net8.0\DemoFileClass.genruntimeconfig.cache
+E:\PRN212\ReadFile\DemoFileClass\obj\Debug\net8.0\ref\DemoFileClass.dll

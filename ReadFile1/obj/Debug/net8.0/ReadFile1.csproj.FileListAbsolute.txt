@@ -1,0 +1,14 @@
+E:\PRN212\ReadFile\ReadFile1\bin\Debug\net8.0\ReadFile1.exe
+E:\PRN212\ReadFile\ReadFile1\bin\Debug\net8.0\ReadFile1.deps.json
+E:\PRN212\ReadFile\ReadFile1\bin\Debug\net8.0\ReadFile1.runtimeconfig.json
+E:\PRN212\ReadFile\ReadFile1\bin\Debug\net8.0\ReadFile1.dll
+E:\PRN212\ReadFile\ReadFile1\bin\Debug\net8.0\ReadFile1.pdb
+E:\PRN212\ReadFile\ReadFile1\obj\Debug\net8.0\ReadFile1.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN212\ReadFile\ReadFile1\obj\Debug\net8.0\ReadFile1.AssemblyInfoInputs.cache
+E:\PRN212\ReadFile\ReadFile1\obj\Debug\net8.0\ReadFile1.AssemblyInfo.cs
+E:\PRN212\ReadFile\ReadFile1\obj\Debug\net8.0\ReadFile1.csproj.CoreCompileInputs.cache
+E:\PRN212\ReadFile\ReadFile1\obj\Debug\net8.0\ReadFile1.dll
+E:\PRN212\ReadFile\ReadFile1\obj\Debug\net8.0\refint\ReadFile1.dll
+E:\PRN212\ReadFile\ReadFile1\obj\Debug\net8.0\ReadFile1.pdb
+E:\PRN212\ReadFile\ReadFile1\obj\Debug\net8.0\ReadFile1.genruntimeconfig.cache
+E:\PRN212\ReadFile\ReadFile1\obj\Debug\net8.0\ref\ReadFile1.dll
